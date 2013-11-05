@@ -1,0 +1,20 @@
+#tenkey_block {
+
+	clear: both;
+}
+
+input.tenKey {
+	font-size:	15pt;
+	width:		100%;
+}
+
+td.td1{
+	font-size:	15pt;
+	align:		center;
+	width:		20%;
+}
+
+input.example {
+	font-size:	15pt;
+	width:		80%;
+}
